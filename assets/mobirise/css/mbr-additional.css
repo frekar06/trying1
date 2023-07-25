@@ -683,7 +683,7 @@ a {
   transition: color 0.6s;
 }
 .cid-tL2RNWnmyt {
-  background-image: url("../../../assets/images/untitled-design-25.png");
+  background-image: url("../../../assets/images/untitled-design-33.png");
 }
 .cid-tL2RNWnmyt .mbr-fallback-image.disabled {
   display: none;
@@ -740,4 +740,35 @@ a {
 .cid-tL2RNWnmyt .icon-wrapper,
 .cid-tL2RNWnmyt .mbr-section-btn {
   text-align: center;
+}
+.cid-tL2W1p7Tb1 {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #ffffff;
+}
+.cid-tL2W1p7Tb1 .card-box {
+  z-index: 10;
+  position: relative;
+}
+@media (min-width: 1500px) {
+  .cid-tL2W1p7Tb1 .container {
+    max-width: 1400px;
+  }
+}
+.cid-tL2W1p7Tb1 .card {
+  margin: auto;
+}
+.cid-tL2W1p7Tb1 .mbr-iconfont {
+  display: block;
+  font-size: 5rem;
+  color: #6592e6;
+  margin-bottom: 2rem;
+}
+.cid-tL2W1p7Tb1 .card-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cid-tL2W1p7Tb1 .row {
+  justify-content: center;
 }
